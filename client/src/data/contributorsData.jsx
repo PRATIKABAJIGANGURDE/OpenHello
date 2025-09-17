@@ -4,7 +4,11 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/111569738?v=4",
     githubUrl: "https://github.com/sidxhdev",
   },
-  
+   {
+    name: "Powerful pratik",
+    photoUrl: "https://avatars.githubusercontent.com/u/162554404?v=4",
+    githubUrl: "https://github.com/PRATIKABAJIGANGURDE",
+  },
  
   // Add more contributors here
 ];
